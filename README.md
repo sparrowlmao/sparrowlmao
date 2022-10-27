@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer & full-stack developer from Slovakia.
+Software engineer from Slovakia.
 
 
 ## 🌐 Socials:
