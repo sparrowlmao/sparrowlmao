@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer, full-stack developer from Slovakia
+Software engineer & full-stack developer from Slovakia.
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@ Software engineer, full-stack developer from Slovakia
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sparrow3378&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sparrow3378&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sparrow3378&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -21,5 +20,5 @@ Software engineer, full-stack developer from Slovakia
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sparrow3378) 
 
-
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
