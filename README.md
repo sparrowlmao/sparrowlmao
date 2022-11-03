@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Lead developer of ALT-F4, Ectasey...<br>👯 Termed on discord over 50 times <br>🤝 https://urmom.pics/ on top<br>🌱 Software engineer<br>💬 contact@urmom.pics<br>
+🔭 Lead developer of ALT-F4, Ectasey...<br>👯 Termed on discord over 100 times <br>🤝 https://urmom.pics/ on top<br>🌱 Software engineer<br>💬 contact@urmom.pics<br>
 
 
 ## 🌐 Socials:
